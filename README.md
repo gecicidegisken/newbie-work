@@ -13,8 +13,8 @@ And the app is simply an assistant to help you choose your tasks to focus. You e
 
 
 
+*****
 
-[TR] 
 
 # newbie-work turkce
 Programlamayı öğrenirken yaptığım çalışmaların bir kısmını bu repoda tutuyorum. Büyük çoğunluğu acemi işi fakat silmek istemedim. Kodlar, yorumlar ve uygulamalar Türkçe - İngilizce karışık yazıldı. İçeride çalışan, hazır uygulamalar olduğu gibi, öğrenme amaçlı yazılmış kod parçaları da var.
