@@ -9,6 +9,9 @@ Also, here are the links to my complete, noteworthy school projetcs from my firs
 [- A day at races](https://github.com/gecicidegisken/a-day-at-races)  
 [- The Quest](https://github.com/gecicidegisken/The-Quest-Game)
 
+### solo-test
+It's peg solitaire on console. Written in C. Also my first complete project.
+
 ### DuckSimulator
  Duck simulator was inspired by the book Head First Design Patterns. It is an implementation of the strategy pattern. 
  
@@ -38,8 +41,12 @@ This directory consists of my codes, mostly written in class when I first learne
 Programlamayı öğrenirken yaptığım çalışmaların bir kısmını bu repoda tutuyorum. Büyük çoğunluğu acemi işi fakat silmek istemedim. Kodlar, yorumlar ve uygulamalar Türkçe - İngilizce karışık yazıldı. İçeride çalışan, hazır uygulamalar olduğu gibi, öğrenme amaçlı yazılmış kod parçaları da var.  
 Ayrıca birinci sınıfta yaptığım ve kayda değer sayılabilecek projelerin linkleri:  
 [- A day at races](https://github.com/gecicidegisken/a-day-at-races)  
-[- The Quest](https://github.com/gecicidegisken/The-Quest-Game)
+[- The Quest](https://github.com/gecicidegisken/The-Quest-Game)  
 
+
+
+### solo-test  
+C ile yazılmış, konsolda oynanabilen solo test oyunu. Ayrıca ilk bitmiş projem.
 
 ### DuckSimulator
 Head First Design Patterns kitabıyla tasarım kalıplarını öğrenirken Strateji desenini uygulamak için yaptığım bir proje.
