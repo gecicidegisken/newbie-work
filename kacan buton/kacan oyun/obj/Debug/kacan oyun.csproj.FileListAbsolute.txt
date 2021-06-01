@@ -1,0 +1,10 @@
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan oyun.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan_oyun.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan oyun.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\bin\Debug\kacan oyun.exe.config
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\bin\Debug\kacan oyun.exe
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\bin\Debug\kacan oyun.pdb
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan oyun.exe
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan oyun.pdb
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan_oyun.beniyakala.resources
+C:\Users\lenovo\Source\Repos\kacan oyun\kacan oyun\obj\Debug\kacan oyun.csproj.CoreCompileInputs.cache
