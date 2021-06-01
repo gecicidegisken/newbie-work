@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSimulator", "DuckSimulator\DuckSimulator.csproj", "{15CA54DD-4D59-41D4-8D73-012B7C430E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CA54DD-4D59-41D4-8D73-012B7C430E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CA54DD-4D59-41D4-8D73-012B7C430E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CA54DD-4D59-41D4-8D73-012B7C430E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CA54DD-4D59-41D4-8D73-012B7C430E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DBCA9ED-A62C-4D71-A749-F920A19EAAE4}
+	EndGlobalSection
+EndGlobal

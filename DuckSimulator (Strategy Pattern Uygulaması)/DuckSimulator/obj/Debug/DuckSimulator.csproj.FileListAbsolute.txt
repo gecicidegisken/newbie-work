@@ -1,0 +1,20 @@
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.Form1.resources
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\lenovo\Source\Repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.pdb
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.Form1.resources
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\lenovo\Source\Repos\DuckSimulator (Strategy Pattern Uygulaması)\DuckSimulator\obj\Debug\DuckSimulator.pdb
