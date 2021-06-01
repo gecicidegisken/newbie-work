@@ -1,0 +1,20 @@
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.exe.config
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.exe
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.pdb
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı_mat_testi.Form1.resources
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı_mat_testi.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.exe
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.pdb
+C:\Users\lenovo\Source\Repos\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.exe.config
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\bin\Debug\zamanlı mat testi.pdb
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı_mat_testi.Form1.resources
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı_mat_testi.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\zamanlı mat testi\zamanlı mat testi\obj\Debug\zamanlı mat testi.pdb
