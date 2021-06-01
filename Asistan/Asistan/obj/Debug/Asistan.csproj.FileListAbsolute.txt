@@ -1,0 +1,10 @@
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\bin\Debug\Asistan.exe.config
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\bin\Debug\Asistan.exe
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\bin\Debug\Asistan.pdb
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.exe
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.pdb
+C:\Users\lenovo\Source\Repos\Asistan\Asistan\obj\Debug\Asistan.Asistan.resources

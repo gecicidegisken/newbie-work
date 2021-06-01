@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asistan", "Asistan\Asistan.csproj", "{66A4AA86-114B-47E1-94CB-3F4C89714894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A4AA86-114B-47E1-94CB-3F4C89714894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A4AA86-114B-47E1-94CB-3F4C89714894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A4AA86-114B-47E1-94CB-3F4C89714894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A4AA86-114B-47E1-94CB-3F4C89714894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543ABF32-AD19-42D4-8F45-1F0CA45E6232}
+	EndGlobalSection
+EndGlobal
