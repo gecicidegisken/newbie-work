@@ -5,6 +5,9 @@
 # newbie-work
 Some of the stuff I wrote while learning to code is stored in this repo. Most of them are quite silly but as the name suggests, they all are the work of a beginner. (:
 I was not able to write codes in an excellent order back then so the projects and codes are not commented very well. Most of them commented to teach me what I was doing and the language is sometimes English and sometimes Turkish.
+Also, here are the links to my complete, noteworthy school projetcs from my first year:
+[- A day at races](https://github.com/gecicidegisken/a-day-at-races)
+[- The Quest](https://github.com/gecicidegisken/The-Quest-Game)
 
 ### DuckSimulator
  Duck simulator was inspired by the book Head First Design Patterns. It is an implementation of the strategy pattern. 
