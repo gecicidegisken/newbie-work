@@ -1,0 +1,10 @@
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\bin\Debug\resim eslestirme.exe.config
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\bin\Debug\resim eslestirme.exe
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\bin\Debug\resim eslestirme.pdb
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim eslestirme.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim_eslestirme.Form1.resources
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim_eslestirme.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim eslestirme.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim eslestirme.exe
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim eslestirme.pdb
+C:\Users\lenovo\Source\Repos\resim eslestirme\resim eslestirme\obj\Debug\resim eslestirme.csproj.CoreCompileInputs.cache
