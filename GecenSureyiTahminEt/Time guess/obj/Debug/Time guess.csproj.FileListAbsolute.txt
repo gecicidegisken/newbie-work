@@ -1,0 +1,20 @@
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\bin\Debug\Time guess.exe.config
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\bin\Debug\Time guess.exe
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\bin\Debug\Time guess.pdb
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time guess.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time_guess.Form1.resources
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time_guess.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time guess.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time guess.exe
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time guess.pdb
+C:\Users\lenovo\Source\Repos\Time guess\Time guess\obj\Debug\Time guess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\bin\Debug\Time guess.exe.config
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\bin\Debug\Time guess.exe
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\bin\Debug\Time guess.pdb
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time guess.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time_guess.Form1.resources
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time_guess.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time guess.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time guess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time guess.exe
+C:\Users\lenovo\Source\Repos\GecenSureyiTahminEt\Time guess\obj\Debug\Time guess.pdb
