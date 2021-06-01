@@ -1,0 +1,14 @@
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\bin\Debug\insanboylari.exe.config
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\bin\Debug\insanboylari.exe
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\bin\Debug\insanboylari.pdb
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\obj\Debug\insanboylari.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\obj\Debug\insanboylari.exe
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\obj\Debug\insanboylari.pdb
+C:\Users\lenovo\Source\Repos\insanboylari\insanboylari\obj\Debug\insanboylari.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\bin\Debug\insanboylari.exe.config
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\bin\Debug\insanboylari.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\bin\Debug\insanboylari.pdb
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\obj\Debug\insanboylari.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\obj\Debug\insanboylari.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\obj\Debug\insanboylari.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\insanboylari\insanboylari\obj\Debug\insanboylari.pdb

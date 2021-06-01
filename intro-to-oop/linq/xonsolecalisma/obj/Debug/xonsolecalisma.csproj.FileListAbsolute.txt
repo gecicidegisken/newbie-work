@@ -1,0 +1,7 @@
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\bin\Debug\xonsolecalisma.exe.config
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\bin\Debug\xonsolecalisma.exe
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\bin\Debug\xonsolecalisma.pdb
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\obj\Debug\xonsolecalisma.exe
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\obj\Debug\xonsolecalisma.pdb
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\obj\Debug\xonsolecalisma.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\xonsolecalisma\xonsolecalisma\obj\Debug\xonsolecalisma.csproj.CoreCompileInputs.cache

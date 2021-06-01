@@ -1,0 +1,14 @@
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\lenovo\Source\Repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\bin\Debug\Lab4.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\bin\Debug\Lab4.pdb
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\obj\Debug\Lab4.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\Lab4(not ortalamaları)\Lab4\obj\Debug\Lab4.pdb

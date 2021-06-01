@@ -1,0 +1,14 @@
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\bin\Debug\animalInheritence.exe.config
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\bin\Debug\animalInheritence.exe
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\bin\Debug\animalInheritence.pdb
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\obj\Debug\animalInheritence.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\obj\Debug\animalInheritence.exe
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\obj\Debug\animalInheritence.pdb
+C:\Users\lenovo\Source\Repos\animalInheritence\animalInheritence\obj\Debug\animalInheritence.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\bin\Debug\animalInheritence.exe.config
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\bin\Debug\animalInheritence.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\bin\Debug\animalInheritence.pdb
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\obj\Debug\animalInheritence.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\obj\Debug\animalInheritence.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\obj\Debug\animalInheritence.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\animalInheritence\animalInheritence\obj\Debug\animalInheritence.pdb

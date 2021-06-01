@@ -1,0 +1,14 @@
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\bin\Debug\polymorfizm.exe.config
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\bin\Debug\polymorfizm.exe
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\bin\Debug\polymorfizm.pdb
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\obj\Debug\polymorfizm.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\obj\Debug\polymorfizm.exe
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\obj\Debug\polymorfizm.pdb
+C:\Users\lenovo\Source\Repos\polymorfizm\polymorfizm\obj\Debug\polymorfizm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\bin\Debug\polymorfizm.exe.config
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\bin\Debug\polymorfizm.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\bin\Debug\polymorfizm.pdb
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\obj\Debug\polymorfizm.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\obj\Debug\polymorfizm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\obj\Debug\polymorfizm.exe
+C:\Users\lenovo\Source\Repos\c# öğrenme\polymorfizm\polymorfizm\obj\Debug\polymorfizm.pdb
