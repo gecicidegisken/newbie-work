@@ -4,9 +4,9 @@
 
 # newbie-work
 Some of the stuff I wrote while learning to code is stored in this repo. Most of them are quite silly but as the name suggests, they all are the work of a beginner. (:
-I was not able to write codes in an excellent order back then so the projects and codes are not commented very well. Most of them commented to teach me what I was doing and the language is sometimes English and sometimes Turkish.
-Also, here are the links to my complete, noteworthy school projetcs from my first year:
-[- A day at races](https://github.com/gecicidegisken/a-day-at-races)
+I was not able to write codes in an excellent order back then so the projects and codes are not commented very well. Most of them commented to teach me what I was doing and the language is sometimes English and sometimes Turkish.  
+Also, here are the links to my complete, noteworthy school projetcs from my first year:  
+[- A day at races](https://github.com/gecicidegisken/a-day-at-races)  
 [- The Quest](https://github.com/gecicidegisken/The-Quest-Game)
 
 ### DuckSimulator
@@ -35,7 +35,11 @@ This directory consists of my codes, mostly written in class when I first learne
 
 
 # newbie-work turkce
-Programlamayı öğrenirken yaptığım çalışmaların bir kısmını bu repoda tutuyorum. Büyük çoğunluğu acemi işi fakat silmek istemedim. Kodlar, yorumlar ve uygulamalar Türkçe - İngilizce karışık yazıldı. İçeride çalışan, hazır uygulamalar olduğu gibi, öğrenme amaçlı yazılmış kod parçaları da var.
+Programlamayı öğrenirken yaptığım çalışmaların bir kısmını bu repoda tutuyorum. Büyük çoğunluğu acemi işi fakat silmek istemedim. Kodlar, yorumlar ve uygulamalar Türkçe - İngilizce karışık yazıldı. İçeride çalışan, hazır uygulamalar olduğu gibi, öğrenme amaçlı yazılmış kod parçaları da var.  
+Ayrıca birinci sınıfta yaptığım ve kayda değer sayılabilecek projelerin linkleri:  
+[- A day at races](https://github.com/gecicidegisken/a-day-at-races)  
+[- The Quest](https://github.com/gecicidegisken/The-Quest-Game)
+
 
 ### DuckSimulator
 Head First Design Patterns kitabıyla tasarım kalıplarını öğrenirken Strateji desenini uygulamak için yaptığım bir proje.
