@@ -25,7 +25,7 @@ A simple match the pictures game. Click a square, see what's behind, click anoth
 # Zamanli Mat Testi
 A WinForms app that give you 4 simple math questions and require you to solve them in 30 seconds. It also checks if you got the correct answers.
 
-# Intro-to-oop
+# intro-to-oop
 This directory consists of my codes, mostly written in class when I first learned what object oriented programming is. These are mostly C# console applications and most of them are so basic that you can find anywhere on the internet.
 
 *****
