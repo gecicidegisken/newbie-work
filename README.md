@@ -14,6 +14,8 @@ And the app is simply an assistant to help you choose your tasks to focus. You e
 ## kacan-buton
 Escaping button is the oldest trick in the book. Simply it's WinForms app and there is a question which you can answer by clicking the buttons yes or no. However, whenever you hover over the button 'no', the button moves somewhere in the screen and you cannot click it.
 
+## GecenSureyiTahmin
+Click the button, computer gives you a random x number. After x seconds, click stop button and see if you guess correctly. Simple Winforms App.
 
 *****
 
@@ -27,3 +29,6 @@ Uygulama ise odaklanmak istediğiniz göreve karar vermenizi sağlayan basit bir
 
 ## kacan buton
 Çok basit bir WinForms uygulaması. Ekrandaki evet ve hayır olan iki butondan hayır olana tıklamak istediğinizde buton uygulama ekranı içinde başka bir yere hareket eder ve asla tıklayamazsınız.
+
+## GecenSureyiTahminEt
+Winforms uygulaması. Bilgisayar rastgele bir sayı verir ve bu sayı kadar süre geçtiğinde dur butonuna basarsınız. Geçen süreyi ve doğru tahmin edip etmediğinizi görürsünüz.

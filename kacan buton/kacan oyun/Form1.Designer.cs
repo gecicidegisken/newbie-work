@@ -50,7 +50,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(204, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "İrfan hoca bize yüksek notlar verecek mi?";
+            this.label1.Text = "Bu dersten yüksek notlar alacak mıyız?";
             // 
             // button2
             // 
